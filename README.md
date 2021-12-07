@@ -1,2 +1,2 @@
 # VueJs-JeitoNinja
-Curso do ThiagoMattos
+Curso do ThiagoMattos de vueJs
